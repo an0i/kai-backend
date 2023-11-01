@@ -1,0 +1,15 @@
+{
+  "name": "kai-backend",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@hono/zod-validator": "^0.1.9",
+    "@vercel/kv": "^0.2.3",
+    "hono": "^3.7.3",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0"
+  }
+}
